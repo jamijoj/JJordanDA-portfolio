@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Welcome!
 
-You can use the [editor on GitHub](https://github.com/jamijoj/JJordanDAportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I completed a Master of Arts Management, Data Analytics track, at Carnegie Mellon University, Heinz College of Information Systems and Public Policy in Pittsburgh, PA. My interests include data analysis for access, resolution of complex issues, and informing strategic objectives. I have a passion for data, and an equally strong passion for creativity and innovation. 
 
-### Markdown
+Check out some of my work below to see how I've explored the application of digital techniques and data analysis to various opportunities.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Portfolio
 
-```markdown
-Syntax highlighted code block
+### GIS for Access
 
-# Header 1
-## Header 2
-### Header 3
+ - [Mapping the British Museum](mappingthebritishmuseum.md)
+ - [Analysis of Lack of Transit Access as a Factor to Arts & Culture Low Attendance Rates of Black/African American and Low-Income Communities in Pittsburgh](project1.md)
+ - [Building and deploying a custom Google Map for a non-profit organization](assignment1.md)
+ - [Using ArcGIS Insights to investigate the DEA's pain pill database](DEApainpilldatabase.md)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jamijoj/JJordanDAportfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Storytelling with Data
+ - ["As the Donor Base Gets Younger, Arts and Culture Institutes Must Shift Their Focus"](https://carnegiemellon.shorthandstories.com/-shifting-money--changing-donors/index.html)
+ - [Visualizing Government Debt](https://jamijoj.github.io/jamila-portfolio/dataviz2.html)
+ - [Critique by Design](https://jamijoj.github.io/jamila-portfolio/dataviz3&4.html)
+ - [Building the Story "As the Donor Base Gets Younger..." - Part 1](finalpart1.md)
+ - [Building the Story "As the Donor Base Gets Younger..." Part 2](finalpart2.md)
+ - [Building the Story "As the Donor Base Gets Younger..." Part 3](finalpart3.md)
