@@ -22,3 +22,13 @@ Check out some of my work below to see how I've explored the application of digi
  - [Building the Story "As the Donor Base Gets Younger..." - Part 1](https://jamijoj.github.io/jamila-portfolio/finalpart1.html)
  - [Building the Story "As the Donor Base Gets Younger..." Part 2](https://jamijoj.github.io/jamila-portfolio/finalpart2.html)
  - [Building the Story "As the Donor Base Gets Younger..." Part 3](https://jamijoj.github.io/jamila-portfolio/finalpart3.html)
+
+### Strategic Planning with UX Design Methods
+- [King Manor Museum 2021-2024 Strategic Plan](https://static1.squarespace.com/static/5ef3ad9e35f57066d6bf11b9/t/617984bef9638966485a8e4c/1635353793108/KM+Strategic+Plan+2021-24.pdf)
+
+### Artificial Intelligence in Traditional Industries
+ - Publication: ["AI as a Tool in the Arts"](https://amt-lab.org/blog/2020/1/ai-as-a-tool-in-the-arts?rq=Jamila)
+ - Publication: ["'The Creativity Code:' Is AI Taking Over the Creative Industries?"](https://amt-lab.org/reviews/2019/11/the-creativity-code-is-ai-taking-over-creative-industries?rq=Jamila)
+
+### Digital and Online Presentation
+- [King Manor Museum's Queens of King Manor Online Exhibition](https://www.kingmanor.org/queens-of-king-manor)
