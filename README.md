@@ -2,9 +2,9 @@
 
 ## About me
 
-I completed a Master of Arts Management, Data Analytics track, at Carnegie Mellon University, Heinz College of Information Systems and Public Policy in Pittsburgh, PA. My interests include data analysis for access, resolution of complex issues, and informing strategic objectives. I have a passion for data, and an equally strong passion for creativity and innovation. 
+I completed a Master of Arts Management, Data Analytics track, at Carnegie Mellon University, Heinz College of Information Systems and Public Policy in Pittsburgh, PA. My interests include the responsible and equitable integration of arts, tech, and AI, along with data analysis for access, resolution of complex issues, and informing strategic objectives. I have a passion for data, and an equally strong passion for creativity and innovation. 
 
-Check out some of my work below to see how I've explored the application of digital techniques and data analysis to various opportunities.
+Check out some of my work below to see how I've explored the application of digital techniques, data analysis, and AI to various opportunities.
 
 ## Portfolio
 
